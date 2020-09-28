@@ -1,1 +1,1 @@
-urbit.deb
+dpkg-deb --build urbit
