@@ -3,6 +3,7 @@ Version: 1.2
 Section: custom
 Priority: optional
 Architecture: amd64
+Multi-Arch: foreign
 Essential: no
 Installed-Size: 72596
 Maintainer: ~botter-nidnul <botter-nidnul@protonmail.com>
