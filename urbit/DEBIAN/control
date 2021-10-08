@@ -1,11 +1,11 @@
 Package: urbit
-Version: 1.5
+Version: 1.6
 Section: custom
 Priority: optional
 Architecture: amd64
 Multi-Arch: foreign
 Essential: no
-Installed-Size: 72504
+Installed-Size: 69432
 Maintainer: ~botter-nidnul <botter-nidnul@protonmail.com>
 Suggests: fstrim-urbit, urbit-service
 Description: Urbit: a personal server operating function
